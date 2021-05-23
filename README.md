@@ -121,5 +121,5 @@
 
 <p>
 <!-- <a href="https://www.vivek9patel.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a> -->
-<a href="https://linkedin.com/in/Shubham7054"><img src="https://img.shields.io/badge/-Shubham7054-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/shubham-kumar-6aa75a197/"><img src="https://img.shields.io/badge/-Shubham7054-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek9patel&" alt="vivek9patel" /></p> -->
